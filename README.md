@@ -1,2 +1,8 @@
 # sio-project-3
- projeto3sio 
+
+Hacked vm
+
+With an hacked vm and logs, creating a footprint of the atacker(matrix), discover what was compromised, and elaborating a report.
+
+
+From Gabriel, Victor and myself
